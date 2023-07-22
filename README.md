@@ -3,7 +3,7 @@
 - course link : https://www.udemy.com/course/mastering-android-app-development-with-kotlin-build-38-apps/
 - Notion Mine Study Book : https://tech-mavica.notion.site/Mastering-Android-App-Development-with-Kotlin-XML-COMPOSE-e617b186d8fc488aab95d0a6bb742914?pvs=4
 
-## Section 9 :
+## 🗺 Section 9 :
 - topics i learned in :
 1. How to implement simple UI .
 2. How to link between UI-XML And Kotlin classes.
@@ -28,7 +28,7 @@
   </tr>
 </table>
 
-## Section 13 :
+## 🗺 Section 13 :
 - topics i learned in :
 1. Intent And Navigation .
 2. Add drawables as background to main layout .
