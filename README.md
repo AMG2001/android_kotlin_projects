@@ -27,6 +27,12 @@
   </tr>
 </table>
 
+## Section 13 :
+- topics i learned in :
+1. How to implement simple UI .
+2. How to link between UI-XML And Kotlin classes.
+3. How to show toast in Android.
+
 
 
 
