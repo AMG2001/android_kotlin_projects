@@ -8,11 +8,28 @@
 2. How to link between UI-XML And Kotlin classes.
 3. How to show toast in Android.
 
-### 9.1 print_name app :
+<table>
+  <tr>
+    <th>### 9.1 print_name app</th>
+    <th>### 9.2 counter_app</th>
+    <th>### 9.3 kilo_to_pounds converter</th>
+  </tr>
+  <tr>
+    <td>
 <img src="https://media.giphy.com/media/B1AKsvmJgKNlEqPnGf/giphy.gif" />
+    </td>
+    <td>
+    <img src="https://media.giphy.com/media/SIjCGj9wdSfZ2TydVg/giphy.gif" />  
+    </td>
+    <td>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGg5ZXNocTY3eXY2eTg5eXp1b3Z2eWxlcHR4dTJqM3VqdW9pdTdmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qsla1uQT9tyc1KaQnP/giphy.gif" />  
+    </td>
+  </tr>
+</table>
 
-### 9.2 counter_app  :
-<img src="https://media.giphy.com/media/SIjCGj9wdSfZ2TydVg/giphy.gif" />
 
-### 9.3 kilo_to_pounds converter :
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGg5ZXNocTY3eXY2eTg5eXp1b3Z2eWxlcHR4dTJqM3VqdW9pdTdmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qsla1uQT9tyc1KaQnP/giphy.gif" />
+
+
+
+
+
